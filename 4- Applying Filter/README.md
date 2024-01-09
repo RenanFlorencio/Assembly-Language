@@ -6,8 +6,7 @@ The filter is given by the following matrix:
 
 -1 | -1 | -1
 --- | --- | --- 
--1 | 8 | -1
---- | --- | --- 
+-1 | 8 | -1 
 -1 | -1 | -1
 
 This matrix sweeps over the image calculating the value for the new pixel on the position of the center of the matrix. This results on a new image that has a high contrast on its edges.
