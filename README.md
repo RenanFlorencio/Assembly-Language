@@ -8,7 +8,7 @@ Note that the code in this repository was written as a solution to the book **["
 
 ## ALE Simulator
 
-The ALE Simulator provides a bunch of peripherals that can be used to test RISC-V code. All of them are descibred in this [document](https://docs.google.com/document/d/1AE_ESrJnxzMO_WpN2yoZTyB5fGPl8wrpAzT7bij1QJk/edit#heading=h.t9snrrka8gu7).
+The ALE Simulator provides a bunch of peripherals that can be used to test RISC-V code. All of them are described in this [document](https://docs.google.com/document/d/1AE_ESrJnxzMO_WpN2yoZTyB5fGPl8wrpAzT7bij1QJk/edit#heading=h.t9snrrka8gu7).
 
 ## Additional Information
 
