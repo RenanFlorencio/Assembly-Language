@@ -3,7 +3,7 @@
 This repo contains most of the code I wrote for my Assembly Programming course at university. All of the code runs on RISC-V archtecture, a rather new arctechture in terms of popularity, but one that has been growing quite a lot throughout the last
 years.
 
-Note that the code in this repository was written as a solution to the book |**"An Introduction to Assembly Programming with RISC-V" by Edson Borin** (found at *https://riscv-programming.org/book/riscv-book.html*). Therefore, the code was tested on the
+Note that the code in this repository was written as a solution to the book **"An Introduction to Assembly Programming with RISC-V" by Edson Borin** (found at *https://riscv-programming.org/book/riscv-book.html*). Therefore, the code was tested on the
 RISC-V ALE simulator (found at *https://riscv-programming.org/ale/*).
 
 ## Additional Information
